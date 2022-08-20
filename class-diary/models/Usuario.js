@@ -23,6 +23,6 @@ module.exports = (connection, DataTypes) => {
         timestamps: false,
         tableName: 'usuarios'
     })
-    model.async({ alter: true })
+    model.sync({ alter: true })
     return model
 }
