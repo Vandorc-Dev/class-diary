@@ -218,3 +218,60 @@ color: #FAFBF4;
   color: #414141;
   font-size: 16px;
 }
+
+/*form cadastro*/
+.form-cadastro{
+  margin-top: 30px;
+  width: 70vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  background-color: #ffffff;
+  border-radius: 14px;
+}
+
+.form-cadastro img{
+  margin-top: 3%;
+  margin-bottom: 8px;
+  width: 5%;
+}
+
+.form-login-cadastro{
+  width: 90%;
+  margin-top: 28px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  color: #194cd8;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+
+.form-login-cadastro input{
+  margin-bottom: 14px;
+  width: 80%;
+  height: 34px;
+  border-radius: 6px;
+  padding-left: 6px;
+}
+
+.btn-submit-cadastro{
+  background-color: #194cd8;
+  color: #FAFBF4;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+}
+
+.link-form-cadastro{
+  display: flex;
+  color: #414141;
+}
+
+.link-form-cadastro a{
+  color: #414141;
+  font-size: 16px;
+}
