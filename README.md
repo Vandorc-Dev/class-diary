@@ -8,6 +8,8 @@
 
 - [Descrição do projeto](#descrição-do-projeto)
 
+- [Motivação](#motivacão)
+
 - [Funcionalidades](#funcionalidades)
 
 - [Tecnologias usadas](#tecnologias-usadas)
@@ -21,8 +23,14 @@
 ## Descrição do projeto 
 
 <p align="justify">
- O Class Diary é um sistema de gestão de tuams e alunos para professores. O objetivo é construir uam aplicação que possa susbitituir a caderneta escolar tornando o processo de acompanhamento de turmas e alunos mais pratico e produtivo para o professor.
+ O Class Diary é um sistema de gestão de turmas e alunos para professores. 
+ O objetivo é construir uma aplicação que possa susbitituir a caderneta escolar física, tornando o processo de acompanhamento de turmas e alunos mais prático e produtivo para o educador.
+</p>
 
+## Motivação
+
+<p align="justify">
+    Fui professor de matemática de escolas públicas e privadas por alguns anos, e uma das dificuldades que enfrentei foi em relação a tradicional cardeneta escolar, onde para cada turma existia uma caderneta a ser preechida com diverdas informações como frequência, nota do aluno, plano de aulas, etc. A manipulação e transporte dessas cadernetas demandava um esforço consideravél visto que cheguei trabalhar em um mesmo ano letivo com 12 turmas e 250 alunos. Todo esforço gasto para manipular essas cadernetas poderia ser melhor gasto na preparação das aulas por exemplo. Esta é a realidade de milhares de professores, e o objetivo dessa aplicação é disponibilzar uma forma mais rápida, 
 </p>
 
 ## Funcionalidades
