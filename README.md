@@ -30,7 +30,7 @@
 ## Motivação
 
 <p align="justify">
-Fui professor de matemática de escolas públicas e privadas por alguns anos, e uma das dificuldades que enfrentei foi em relação a tradicional cardeneta escolar, onde para cada turma existia uma caderneta a ser preechida com diverdas informações como frequência, nota do aluno, plano de aulas, etc. A manipulação e transporte dessas cadernetas demandava um esforço consideravél visto que cheguei trabalhar em um mesmo ano letivo com 12 turmas e 250 alunos. Todo esforço gasto para manipular essas cadernetas poderia ser melhor gasto na preparação das aulas por exemplo. Esta é a realidade de milhares de professores, e o objetivo dessa aplicação é disponibilzar uma forma mais rápida, 
+Fui professor de matemática de escolas públicas e privadas por alguns anos, e uma das dificuldades que enfrentei foi em relação a tradicional cardeneta escolar, onde para cada turma existia uma caderneta a ser preenchida com diversas informações como frequência, nota do aluno, plano de aulas, etc. A manipulação e transporte dessas cadernetas demandava um esforço consideravél visto que cheguei trabalhar em um mesmo ano letivo com 12 turmas e 250 alunos. Todo esforço gasto para manipular essas cadernetas poderia ser melhor gasto na preparação das aulas. Esta é a realidade de milhares de professores, e o objetivo dessa aplicação é disponibilzar uma forma mais rápida e que demande menos esforço por parte do professor(a) para fazer a gestão de turmas de forma que essas informações estejam sempre disponível em qualquer dispositivo com acesso a internet.
 </p>
 
 ## Funcionalidades
