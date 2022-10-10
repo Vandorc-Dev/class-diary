@@ -8,5 +8,15 @@ module.exports = {
             console.log("ERRO: ", JSON.stringify(error?.parent?.sqlMessage));
         }
         res.redirect("/")
+    },
+    perfil: async (req, res, next) =>{
+        let { id_user } = req.params;
+        let userPerfil = await Usuario.findOne({
+            where: {
+                id: id_user
+            }
+        })
+        return res.render('user-perfil', { userPerfil })
     }
 }
+

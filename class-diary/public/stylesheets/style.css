@@ -24,7 +24,7 @@ body {
   align-items: center; 
   justify-content: space-between;
   padding-left: 28px;
-  background-color: #000066;
+  background-color: #0e208c;
 }
 
 #header ul {
@@ -99,8 +99,8 @@ color: #FAFBF4;
 }
 
 .box:hover{
-  border-left: #d60b26 solid 5px;
-  background-color: #83bdd486;
+  border-left: #75e40d solid 5px;
+  background-color: #95c5d886;
 }
 
 
@@ -123,7 +123,7 @@ color: #FAFBF4;
 #aside{
   width: 20%;
   height: 100vh;
-  background-color: #1e1eb8;
+  background-color: #033e8c;
 }
 
 #aside h2{
@@ -144,7 +144,7 @@ color: #FAFBF4;
 }
 
 .item-menu:hover{
-  border-bottom: #d60b26 solid 2px;
+  border-bottom: #3b362d solid 2px;
 }
 
 .item-menu img{
